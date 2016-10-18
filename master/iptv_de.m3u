@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="dach.ink" tvg-logo="dach.png", [COLOR deeppink]DACH Senderliste - Deutschland Österreich Schweiz
+pipe:///livestream.sh hlsvariant://http://hls.tv.iptv.ink/iptvink@000000.m3u8|X-Forwarded-For=78.42.18.55
+#EXTINF:0002 tvg-id="daserste.de" group-title="DE Hauptsender" tvg-logo="609281.png", Das Erste
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=71565725
+#EXTINF:0003 tvg-id="zdf.de" group-title="DE Hauptsender" tvg-logo="520869.png", ZDF
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=89460817
+#EXTINF:0014 tvg-id="servustv.de" group-title="DE Hauptsender" tvg-logo="506777.png", ServusTV HD
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=91552152
+#EXTINF:0016 tvg-id="daf.de" group-title="DE Nachrichtensender" tvg-logo="133390.png", DAF
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=38226521
+#EXTINF:0017 tvg-id="ntv.de" group-title="DE Nachrichtensender" tvg-logo="323539.png", n-tv
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=36117276
+#EXTINF:0018 tvg-id="tagesschau24.de" group-title="DE Nachrichtensender" tvg-logo="420228.png", tagesschau24 HD
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=66943285
+#EXTINF:0019 tvg-id="n24.de" group-title="DE Nachrichtensender" tvg-logo="692106.png", N24
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=94565800
+#EXTINF:0020 tvg-id="kika.de" group-title="DE Kindersender" tvg-logo="302192.png", KiKA HD
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=14807581
+#EXTINF:0023 tvg-id="ric.de" group-title="DE Kindersender" tvg-logo="548620.png", RIC
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=58895342
+#EXTINF:0028 tvg-id="joiz.de" group-title="DE Musik/Unterhaltung" tvg-logo="754941.png", Joiz HD
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=76444512
+#EXTINF:0029 tvg-id="ndrhh.de" group-title="DE Regionalsender" tvg-logo="345745.png", NDR Hamburg HD
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=97998370
+#EXTINF:0030 tvg-id="ndrmv.de" group-title="DE Regionalsender" tvg-logo="293767.png", NDR Meck.-Vorp. HD
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=37960481
+#EXTINF:0031 tvg-id="ndrns.de" group-title="DE Regionalsender" tvg-logo="686621.png", NDR Niedersachsen HD
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=66725953
+#EXTINF:0032 tvg-id="ndrsh.de" group-title="DE Regionalsender" tvg-logo="837900.png", NDR Schleswig-Hol. HD
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=68869115
+#EXTINF:0033 tvg-id="wdr.de" group-title="DE Regionalsender" tvg-logo="829753.png", WDR HD
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=86222576
+#EXTINF:0034 tvg-id="mdrsa.de" group-title="DE Regionalsender" tvg-logo="359097.png", mdr Sachsenanhalt
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=19246790
+#EXTINF:0035 tvg-id="mdrs.de" group-title="DE Regionalsender" tvg-logo="434439.png", mdr Sachsen
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=43846332
+#EXTINF:0036 tvg-id="mdrt.de" group-title="DE Regionalsender" tvg-logo="795294.png", mdr Thüringen
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=62127479
+#EXTINF:0038 tvg-id="br.de" group-title="DE Regionalsender" tvg-logo="282510.png", BR Nord HD
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=91032489
+#EXTINF:0038 tvg-id="br.de" group-title="DE Regionalsender" tvg-logo="282510.png", BR Süd HD
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=93405226
+#EXTINF:0039 tvg-id="swr.de" group-title="DE Regionalsender" tvg-logo="589366.png", SWR Rheinland-Pfalz HD
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=66994086
+#EXTINF:0039 tvg-id="swr.de" group-title="DE Regionalsender" tvg-logo="589366.png", SWR Baden-Würt. HD
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=86487325
+#EXTINF:0040 tvg-id="hr.de" group-title="DE Regionalsender" tvg-logo="872109.png", hr HD
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=92038145
+#EXTINF:0042 tvg-id="sr.de" group-title="DE Regionalsender" tvg-logo="153584.png", SR
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=70352001
+#EXTINF:0043 tvg-id="munchen.de" group-title="DE Regionalsender" tvg-logo="465700.png", münchen.tv
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=87047525
+#EXTINF:0044 tvg-id="alexberlin.de" group-title="DE Regionalsender" tvg-logo="806954.png", Alex Berlin
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=65304965
+#EXTINF:0045 tvg-id="nrw.de" group-title="DE Regionalsender" tvg-logo="452899.png", NRW TV
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=23906919
+#EXTINF:0046 tvg-id="arte.de" group-title="DE Spartensender" tvg-logo="602298.png", arte
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=46301796
+#EXTINF:0047 tvg-id="3sat.de" group-title="DE Spartensender" tvg-logo="517353.png", 3sat
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=20739466
+#EXTINF:0048 tvg-id="phoenix.de" group-title="DE Spartensender" tvg-logo="782023.png", Phoenix
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=86652639
+#EXTINF:0049 tvg-id="alpha.de" group-title="DE Spartensender" tvg-logo="535798.png", ARD Alpha HD
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=36929284
+#EXTINF:0051 tvg-id="blizz.de" group-title="DE Spartensender" tvg-logo="897815.png", blizz TV HD
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=72718361
+#EXTINF:0052 tvg-id="family.de" group-title="DE Spartensender" tvg-logo="693134.png", Family TV HD
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=12138379
+#EXTINF:0055 tvg-id="zdfneo.de" group-title="DE Spartensender" tvg-logo="698970.png", ZDFneo
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=83251092
+#EXTINF:0056 tvg-id="zdfkultur.de" group-title="DE Spartensender" tvg-logo="734448.png", ZDFkultur
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=70552908
+#EXTINF:0057 tvg-id="zdfinfo.de" group-title="DE Spartensender" tvg-logo="387164.png", ZDFinfo
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=46937073
+#EXTINF:0058 tvg-id="anixe.de" group-title="DE Spartensender" tvg-logo="581947.png", Anixe
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=70153119
+#EXTINF:0059 tvg-id="dw.de" group-title="DE Spartensender" tvg-logo="730024.png", Deutsche Welle
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=72519784
+#EXTINF:0061 tvg-id="weltderwunder.de" group-title="DE Spartensender" tvg-logo="729583.png", Welt der Wunder TV
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=84481021
+#EXTINF:0064 tvg-id="bibeltv.de" group-title="DE Religion" tvg-logo="206560.png", Bibel TV
+pipe:///livestream.sh hlsvariant://http://api.iptv.ink/pl.m3u8?ch=40925356
